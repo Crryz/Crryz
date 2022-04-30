@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Crryz
+- 👀 I’m interested in things
+- 📫 How to reach me- you cant

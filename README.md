@@ -1,12 +1,9 @@
 Hello! I'm Crryz, I'm 15 years old and I code
-Minecraft clients. I am currently learning Java
-, Kotlin, C++, and HTML. I already know Python,
-JavaScript, and C#. I'm learning editing aswell.
+a lot.
 
 Projects
 --------
-Chorus Client
-Ghost Chorus
+None atm.
 
 How to contact me
 -----------------

@@ -1,0 +1,1 @@
+            <p>I’m a passionate web designer and Microsoft specialist with a love for creating modern, visually appealing sites. With experience in building over 20 websites and expertise in HTML, CSS, JavaScript, and PHP, I deliver projects quickly and effectively. I’m also a certified specialist in PowerPoint and Word, which makes documents a breeze for me.</p>
